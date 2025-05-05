@@ -1,3 +1,8 @@
+## 🚀 Live Demo
+
+- **(Vercel):** [https://product-management-portal-aman.vercel.app](https://product-management-portal-aman.vercel.app)  
+
+
 # Node.js E-commerce Application
 
 This is a Node.js-based e-commerce application that provides functionality for managing products, categories, and customers. It includes both admin and customer interfaces.
